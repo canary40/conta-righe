@@ -4,4 +4,4 @@ Ciao, questa è un'estensione per Google Chrome oppure Opera GX per contare le r
 
 *NON SUPPORTATA PER FIREFOX!
 
-Scarica il file .zip: 
+Scarica il file .zip: https://github.com/canary40/conta-righe/blob/main/conta%20righe.zip
